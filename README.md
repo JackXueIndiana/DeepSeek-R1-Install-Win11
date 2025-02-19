@@ -7,7 +7,7 @@ I follow this [blog](https://www.thewindowsclub.com/how-to-run-deepseek-locally-
 The first step is to install Ollama on your computer. You can download it from its [official website](https://ollama.com/). Run the installer file to install Ollama on your computer. After installing Ollama, visit its official website again and click on the Models tab on the top.
 
 ## Install DeepSeek R1 model with cmd
-I select the smallest model, deepseek-r1:1.5b, by in a CMD window run
+I select the smallest model, deepseek-r1:1.5b, by in a CMD window running this command:
 ~~~
 ollama run deepseek-r1:1.5b
 ~~~
