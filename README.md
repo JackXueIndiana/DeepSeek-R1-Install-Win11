@@ -1,5 +1,5 @@
 # DeepSeek-R1-Install-Win11
-This is the note I took when I try to install DeepSeek R1 on my laptop.
+Running LLM locally is very appealling as it could address many concerns regarding security and IP protection. This is the note I took when I try to install DeepSeek R1 on my laptop.
 
 I follow this [blog](https://www.thewindowsclub.com/how-to-run-deepseek-locally-on-windows#:~:text=We%20will%20show%20you%20how%20to%20host%20the,the%20installer%20file%20to%20install%20the%20Chatbox%20AI.)
 
@@ -13,7 +13,7 @@ ollama run deepseek-r1:1.5b
 ~~~
 
 ## Try out
-Upon successfully installation, you can start chat with the model:
+Upon successfully installation, you can start chat with the model. The speed of response generation is amazingly good even on a pretty elementary laptop. 
 ~~~
 (base) C:\Users\xinxue\deepseek-r1>ollama run deepseek-r1:1.5b
 >>> hello
