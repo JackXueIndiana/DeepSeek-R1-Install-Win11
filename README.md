@@ -31,3 +31,15 @@ Hello! How can I assist you today? 😊
 Hello! My name is DeepSeek-R1-Lite-Preview. I'm currently an AI assistant created by DeepSeek, available to help with various inquiries and
 tasks. Let me know how I can assist you!
 ~~~
+
+### Test the model in Python App
+You can try to run tryme.py.
+~~~
+$ C:/python.exe c:/Users/xinxue/deepseek-r1/tryme.py
+You:What is your name?
+DeepSeek: <think>
+
+</think>
+
+Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have.
+~~~
