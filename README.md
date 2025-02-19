@@ -43,3 +43,15 @@ DeepSeek: <think>
 
 Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have.
 ~~~
+
+### Test the model in async call
+YOu can try out to run async.py
+~~~
+$ C:/python.exe c:/Users/xinxue/deepseek-r1/async.py
+<think>
+
+</think>
+
+The color of the sky, also known as the atmospheric color, is primarily due to the scattering and absorption of light in the Earth's atmosphere. When sunlight passes through these layers, it is both scattered and absorbed by various particles, including molecules and small water droplets, which are illuminated from all directions by the Sun. This process causes the colors of the visible spectrum that would otherwise be seen as a single color to appear as multiple hues or colors when observed directly by humans.
+
+~~~
