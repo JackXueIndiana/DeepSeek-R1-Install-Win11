@@ -45,7 +45,7 @@ Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by Deep
 ~~~
 
 ### Test the model in async call
-YOu can try out to run async.py
+You can try out to run async.py
 ~~~
 $ C:/python.exe c:/Users/xinxue/deepseek-r1/async.py
 <think>
@@ -54,4 +54,26 @@ $ C:/python.exe c:/Users/xinxue/deepseek-r1/async.py
 
 The color of the sky, also known as the atmospheric color, is primarily due to the scattering and absorption of light in the Earth's atmosphere. When sunlight passes through these layers, it is both scattered and absorbed by various particles, including molecules and small water droplets, which are illuminated from all directions by the Sun. This process causes the colors of the visible spectrum that would otherwise be seen as a single color to appear as multiple hues or colors when observed directly by humans.
 
+~~~
+
+### Test the model in Smantic Kernel
+In SK, we load in the model through ollama connector (sk version 1.21.3).
+YOu can try out to run sk.py
+~~~
+$ C:/python.exe c:/Users/xinxue/deepseek-r1/sk.py
+<think>
+Okay, so I need to give a TLDR from these three points about robots and human life. Let's break it down. 
+
+Point 1 says the robot can't injure anyone or let another harm if not doing so themselves. That sounds like the Third Law of Thermodynamics, which says no law breaks in physics without a reason. So that covers safety and preventing harm.
+
+Point 2 mentions obeying human orders unless they conflict with laws. That's more about ethics and consequences. If someone violates a rule, the robot has to follow it instead because breaking one is not allowed.
+
+Point 3 talks about protecting itself as long as no conflict with other laws. So that relates to safety and existence beyond just preventing harm to humans.
+
+Putting it together: The robot can't hurt anyone unless doing so themselves, must obey orders without breaking laws, and must protect itself while complying with both human and non-human laws. But wait, the user asked for exactly five words, so maybe I can combine some parts.
+
+Perhaps "Robots cannot harm humans or others, obey instructions when safe, and must exist safely." That's seven words. Maybe shorten it further to five: "Robots must obey, protect themselves, prevent harm from humans."
+</think>
+
+Robots must obey, protect themselves, prevent harm from humans.
 ~~~
